@@ -1,0 +1,2 @@
+# RepoDistrimascotapp
+Proyecto Entrega Final
